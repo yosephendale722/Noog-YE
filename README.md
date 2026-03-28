@@ -35,4 +35,4 @@ Noog is a Spotify-like local music player for Android, built with Jetpack Compos
 - Lightweight local music player
 - Fully local playback support
 - Internet connection required to fetch artist images and biography
-- Only requests the permissions needed for music playback and library access
+- Requests only the permissions needed for music playback and library access
