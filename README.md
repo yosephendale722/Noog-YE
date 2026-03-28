@@ -67,6 +67,10 @@ Noog includes playback options such as:
 ### Modern UI
 Noog uses a clean Jetpack Compose interface with smooth animations, dark styling, and a compact mini player.
 
+
+## Download the app
+You can get the latest version of Noog from GitHub [Releases](https://t.me/noog_music_player) or through our [Telegram](https://t.me/noog_music_player) channel.
+
 ## About
 
 Noog is developed by [Yoseph Endale](https://github.com/yosephendale722).
