@@ -69,7 +69,7 @@ Noog uses a clean Jetpack Compose interface with smooth animations, dark styling
 
 ## About
 
-Noog is developed by Yoseph Endale.
+Noog is developed by [Yoseph Endale](https://github.com/yosephendale722).
 
 ## Copyright
 
