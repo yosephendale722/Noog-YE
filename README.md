@@ -52,7 +52,7 @@ Noog is a Spotify-like local music player for Android, built with Jetpack Compos
 Noog is built for local music files on your device. It focuses on fast playback, smooth transitions, and a simple user experience.
 
 ### Canvas-Style Animated Covers
-Noog supports animated cover art for a more dynamic now playing experience. It can display webp and mp4-based canvas-style visuals when available.
+Noog supports animated cover art for a more dynamic now playing experience. It can display webp and mp4-based canvas-style visuals when available. To view the instructions on how to use the canvas feature, [click here](https://t.me/noog_music/400).
 
 ### Lyrics Preview
 Noog includes a lyrics preview area for a richer listening experience, with a Spotify-style presentation.
