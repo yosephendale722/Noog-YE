@@ -69,7 +69,7 @@ Noog uses a clean Jetpack Compose interface with smooth animations, dark styling
 
 
 ## Download the app
-You can get the latest version of Noog from GitHub [Releases](https://t.me/noog_music_player) or through our [Telegram](https://t.me/noog_music_player) channel.
+You can get the latest version of Noog from GitHub [Releases](https://github.com/yosephendale722/Noog-YE/releases) or through our [Telegram](https://t.me/noog_music_player) channel.
 
 ## About
 
