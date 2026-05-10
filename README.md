@@ -1,5 +1,5 @@
 # Spot-Local-Music-Player
-The best [Spot](t.me/spot_music_player) for your local music.
+### The best [Spot](t.me/spot_music_player) for your local music.
 ![Mocha](Screenshots/help.png)
 
 Spot is a Spotify-like local music player for Android, built with Jetpack Compose and Media3. It is made for smooth playback, animated canvas-style covers, and a clean, modern listening experience.
