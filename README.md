@@ -1,4 +1,4 @@
-# Spot-Local-Music-Player
+# Spot The Difference
 ### The best [Spot](t.me/spot_music_player) for your local music.
 ![Mocha](Screenshots/help.png)
 
