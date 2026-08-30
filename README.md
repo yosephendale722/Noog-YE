@@ -6,7 +6,17 @@ Spot is a Spotify-like local music player for Android, built with Jetpack Compos
 
 ⚠ NB. The app is still in development, so you may run into bugs, missing features, or a few stability issues.
 
-<summary><strong>Older single-shot numbers (isolated generation)</strong></summary>
+<details>
+  <summary>Click here to expand!</summary>
+  
+  ### This is a hidden heading
+  Any Markdown content goes here, like:
+  - Text
+  - Images
+  - Code blocks
+  
+</details>
+
 # Preview
 
 test 123
