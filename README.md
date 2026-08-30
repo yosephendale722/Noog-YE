@@ -29,7 +29,7 @@ Spot is a Spotify-like local music player for Android, built with Jetpack Compos
 <!-- For more, see all pages screenshots [<b>here</b>](https://) -->
 
 ## Download the app
-You can get the latest version of Noog from GitHub [Releases](https://github.com/yosephendale722/Noog-YE/releases) or through our [Telegram](https://t.me/spot_music_player) channel.
+You can get the latest version of Spot from GitHub [Releases](https://github.com/yosephendale722/Noog-YE/releases) or through our [Telegram](https://t.me/spot_music_player) channel.
 
 ## About
 
